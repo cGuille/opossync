@@ -1,0 +1,7 @@
+[package]
+name = "opossync"
+version = "0.1.0"
+authors = ["Guillaume Charmetant <cguille.dev@gmail.com>"]
+description = "Ebook reading position synchronization server."
+
+[dependencies]
