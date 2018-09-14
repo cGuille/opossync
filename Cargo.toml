@@ -6,3 +6,5 @@ description = "Ebook reading position synchronization server."
 
 [dependencies]
 actix-web = "0.6"
+log = "*"
+simplelog = "*"
